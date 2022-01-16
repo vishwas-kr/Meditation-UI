@@ -1,16 +1,9 @@
-# meditation
+# meditation-UI
 
-A new Flutter project.
+A Flutter project for meditation app UI
 
-## Getting Started
+[App UI](https://www.instagram.com/p/CWca67oIH_-/)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/screenshots/shot1.png" height=500>  | <img src="images/screenshots/shot2.png" height=500>
